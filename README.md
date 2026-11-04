@@ -1,5 +1,7 @@
 # myftp
 
+![Demo](docs/demo.gif)
+
 Epitech project (G-NWP-400). An FTP server written in C++20 on top of raw sockets.
 
 ## Build
